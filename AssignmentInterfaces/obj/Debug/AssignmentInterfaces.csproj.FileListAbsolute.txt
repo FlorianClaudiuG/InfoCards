@@ -1,0 +1,10 @@
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.dll
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.dll
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.pdb
+C:\Users\Claudiu\Desktop\Work\Year2\InfoCards\Assignment_StudentVersion\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.dll
+C:\Users\Claudiu\Desktop\Work\Year2\InfoCards\Assignment_StudentVersion\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\Claudiu\Desktop\Work\Year2\InfoCards\Assignment_StudentVersion\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Claudiu\Desktop\Work\Year2\InfoCards\Assignment_StudentVersion\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.dll
+C:\Users\Claudiu\Desktop\Work\Year2\InfoCards\Assignment_StudentVersion\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.pdb
