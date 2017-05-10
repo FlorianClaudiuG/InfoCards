@@ -1,0 +1,5 @@
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\Assignment\bin\Debug\InfoCards.dll
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\Assignment\bin\Debug\InfoCards.pdb
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\InfoCards\obj\Debug\InfoCards.csprojResolveAssemblyReference.cache
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\InfoCards\obj\Debug\InfoCards.dll
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\InfoCards\obj\Debug\InfoCards.pdb
