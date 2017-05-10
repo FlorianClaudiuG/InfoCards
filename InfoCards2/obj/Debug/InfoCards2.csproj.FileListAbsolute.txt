@@ -1,0 +1,10 @@
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\InfoCards2\obj\Debug\InfoCards2.csprojResolveAssemblyReference.cache
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\Assignment\bin\Debug\InfoCards2.dll
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\Assignment\bin\Debug\InfoCards2.pdb
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\InfoCards2\obj\Debug\Assignment.CreditCardDisplay.resources
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\InfoCards2\obj\Debug\Assignment.CreditCardEdit.resources
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\InfoCards2\obj\Debug\Assignment.UniCardDisplay.resources
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\InfoCards2\obj\Debug\Assignment.UniCardEdit.resources
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\InfoCards2\obj\Debug\InfoCards2.csproj.GenerateResource.Cache
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\InfoCards2\obj\Debug\InfoCards2.dll
+C:\Users\Claudiu\Desktop\Assignment_StudentVersion\InfoCards2\obj\Debug\InfoCards2.pdb
